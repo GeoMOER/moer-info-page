@@ -1,0 +1,47 @@
+# /_data/authors.yml
+
+Test1:
+  name        : "Test1"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Test2:
+  name        : "Test2"
+  bio         : "What do you want, jewels? I am a very extravagant man."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Dirk Zeuss:
+  name             : "Dirk Zeuss"
+  avatar           : "/assets/images/zeuss.jpg"
+  bio              : "University of Marburg"
+  location         : "Marburg, DE"
+  email            : "dirk.zeuss@uni-marburg.de"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
+  home             : "https://www.researchgate.net/profile/Dirk_Zeuss"
+  researchgate     : "https://www.researchgate.net/profile/Dirk_Zeuss" # to be included some day
+  flickr           : "https://www.flickr.com/environmentalinformatics-marburg/"
+  github           : "GeoMOER"
+  twitter          : "https://twitter.com/geographie_umr"
+  youtube          : "https://www.youtube.com/channel/UCGiwSv5KYjsNXl6-nZq0SDA"
+
+

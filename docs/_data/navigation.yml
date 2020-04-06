@@ -1,0 +1,23 @@
+# main links
+main:
+  - title: "Infos"
+    url: /units.html
+  - title: "Site home"
+    url: /index.html
+  - title: "OER home"
+    url: https://oer.uni-marburg.de/ilias.php?ref_id=1651239&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=tp&baseClass=ilrepositorygui
+  - title: "Sitemap"
+    url: /sitemap.html
+  - title: "About"
+    url: /about.html
+    
+    
+docs:
+  - title: Ways out
+    children:
+      - title: "Infos"
+        url: /units.html
+      - title: "Site home"
+        url: /index.html
+      - title: "OER home"
+        url: https://oer.uni-marburg.de/ilias.php?ref_id=1651239&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=tp&baseClass=ilrepositorygui
