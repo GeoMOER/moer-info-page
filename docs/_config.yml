@@ -39,12 +39,7 @@ twitter:
   username         : &twitter "EnvIn_UMR"
 
 ##### Lecturer settings #######################################################
-
-
-authors: 
-- Test1
-- Test2 # see authors.yml
-
+# moved to /_data/authors.yml
  
 
 ##### Site configuration ######################################################
@@ -53,7 +48,7 @@ excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-# theme: minima
+# theme: minimal-mistakes-jekyll
 remote_theme: "GeoMOER/moer-jekyll-theme"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
@@ -76,7 +71,7 @@ collections:
   unit02:
     output: true
     permalink: /:collection/:title.html
-  tools:
+  01_tools:
     output: true
     permalink: /:collection/:title.html
   spotlights:
@@ -102,9 +97,9 @@ defaults:
   # tools
   - scope:
       path: ""
-      type: tools
+      type: 01_tools
     values:
-      category: "tools"
+      category: "Tools"
       tags: "tools"
       layout: single
       sidebar:

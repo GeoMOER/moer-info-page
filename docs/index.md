@@ -1,5 +1,9 @@
 ---
 title: Lehre in der AG Umweltinformatik
+authors:
+  - nauss
+  - reudenbach
+  - zeuss
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
 header:
@@ -32,7 +36,7 @@ Das Wichtigste in Kürze:
 * Alle Veranstaltungen finden bis auf weiteres digital statt
 * Bei Fragen wenden Sie sich bitte per Email an die Lehrenden
 
-[Beachten Sie auch unbedingt die aktuellen Informationen der Philipps-Universität Marburg](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"}
+Beachten Sie bitte auch unbedingt die aktuellen Informationen zur Coronasituation der [Philipps-Universität Marburg](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"}
 
 
 # Kurse im Sommersemester 2020
@@ -49,10 +53,17 @@ Das Wichtigste in Kürze:
 Weitere Informationen finden Sie oben unter "Infos" oder [hier](units.html)
 
 
-
-
 # Lehrende
-{% include author-profile.html %}
+
+{% for i in page.authors %} 
+  {% assign author = site.data.authors[i] %}
+  {% include author-profile.html %}
+ <br /> 
+{% endfor %}
+
+
+
+
 
 
 
