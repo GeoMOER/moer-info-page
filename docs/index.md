@@ -26,7 +26,7 @@ feature_row_ilos:
 {% include feature_row id="feature_row_intro" type="center" %}
 
 Die Arbeitsgruppe Umweltinformatik versucht Studierende unter den aktuellen erschwerten Bedingungen bestmöglich beim Lernen zu unterstützen. 
-Dazu bauen wir laufend unsere digitalen Lernangebote aus. 
+Hierzu bauen wir laufend unsere digitalen Lernangebote aus. 
 Diese Seite soll Ihnen einen Überblick über unser aktuelles Lehrangebot verschaffen und den Zugang zu häufiger benötigten Informationen und Materialien erleichtern.
 
 Das Wichtigste in Kürze:
@@ -36,7 +36,7 @@ Das Wichtigste in Kürze:
 * Alle Veranstaltungen finden bis auf weiteres digital statt
 * Bei Fragen wenden Sie sich bitte per Email an die Lehrenden
 
-Beachten Sie bitte auch unbedingt die aktuellen Informationen zur Coronasituation der [Philipps-Universität Marburg](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"}
+Beachten Sie bitte auch die aktuellen Informationen zur Coronasituation der [Philipps-Universität Marburg](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"}
 
 
 # Kurse im Sommersemester 2020
@@ -50,7 +50,7 @@ Beachten Sie bitte auch unbedingt die aktuellen Informationen zur Coronasituatio
 
 # Weitere Informationen
 
-Weitere Informationen finden Sie oben unter "Infos" oder [hier](units.html)
+Weitere Informationen finden Sie oben unter ["Infos"](units.html)
 
 
 # Lehrende
