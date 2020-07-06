@@ -1,5 +1,5 @@
 ---
-title: Lehre in der AG Umweltinformatik
+title: Teaching in the Lab of Environmental Informatics
 authors:
   - nauss
   - reudenbach
@@ -11,11 +11,11 @@ header:
   overlay_filter: 0.6
   overlay_image: "/assets/images/unimr_lead_image_covid.jpeg"
   caption: 'Abbildung: colourbox.de'
-  cta_label: Infos
+  cta_label: Discover
   cta_url: "/units.html"
-excerpt: Hier finden Sie aktuelle Informationen zum Lehrbetrieb der Arbeitsgruppe Umweltinformatik 
+excerpt: Find out more about our teaching philosophy, our courses, and our topics for theses
 feature_row_intro:
-- excerpt: Stand 9.4.2020
+- excerpt: Last modified 6.7.2020
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.

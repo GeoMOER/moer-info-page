@@ -62,42 +62,65 @@ include:
 
 # Collections
 collections:
-  examples:
+  01_Philosophy:
     output: true
     permalink: /:collection/:title.html
-  unit01:
+  02_Courses:
     output: true
     permalink: /:collection/:title.html
-  unit02:
+  03_Theses:
     output: true
     permalink: /:collection/:title.html
-  01_tools:
+  04_tools:
     output: true
     permalink: /:collection/:title.html
   spotlights:
-    output: true
-    permalink: /:collection/:title.html
-  RBasics:
     output: true
     permalink: /:collection/:title.html
  
 
 # Default settings
 defaults:
-  # examples
+  # 01_Philosophy 				# Folder name
   - scope:
       path: ""
-      type: examples
+      type: 01_Philosophy			# Folder name
     values:
-      category: "examples"
-      tags: "Examples"
+      category: "Philosophy"			# Displayed name
+      tags: "Philosophy"
       layout: single
       sidebar:
-        nav: "units" 
-  # tools
+        nav: "units"
+      toc: true
+      toc_label: On this page
+  # 02_Courses
   - scope:
       path: ""
-      type: 01_tools
+      type: 02_Courses
+    values:
+      category: "Courses"
+      tags: "Courses"
+      layout: single
+      sidebar:
+        nav: "units"
+      toc: true
+      toc_label: On this page
+  # 03_Theses
+  - scope:
+      path: ""
+      type: 03_Theses
+    values:
+      category: "Theses"
+      tags: "Theses"
+      layout: single
+      sidebar:
+        nav: "units"
+      toc: true
+      toc_label: On this page  
+  # 04_tools
+  - scope:
+      path: ""
+      type: 04_tools
     values:
       category: "Tools"
       tags: "tools"
@@ -115,19 +138,7 @@ defaults:
       sidebar:
         nav: "units" 
       toc: true
-      toc_label: On this page
-  # RBasics
-  - scope:
-      path: ""
-      type: RBasics
-    values:
-      category: "RBasics"
-      tags: "RBasics"
-      layout: single
-      sidebar:
-        nav: "units" 
-      toc: true
-      toc_label: On this page                
+      toc_label: On this page           
   # pages
   - scope:
       path: "_pages"
