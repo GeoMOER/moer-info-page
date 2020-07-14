@@ -7,15 +7,23 @@ Here you can find some installers or other usefull software applications which a
 <!--more-->
 
 ## R
-xxx
+https://cran.r-project.org/
+
+
+## RStudio
+https://rstudio.com/products/rstudio/
+
 
 ## QGiS
-xxx
+https://www.qgis.org
+
 
 ## envimaR
-xxx
+https://github.com/envima/envimaR
 
 
+## OSGeo4W
+https://trac.osgeo.org/osgeo4w/
 
 
 
