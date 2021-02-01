@@ -39,17 +39,22 @@ Beachten Sie bitte auch die aktuellen [Informationen zum Coronavirus](https://ww
 
 # Aktuelle Lehrveranstaltungen
 
+**Wintersemester 2020/2021**
+
+* [Data Analysis](https://geomoer.github.io/moer-mpg-data-analysis/){:target="_blank"} (Master)
+* [Processing, Analysing and Interpreting Ground Radar Images](https://geomoer.github.io/moer-bsc-project-seminar-ground-radar/){:target="_blank"} (Bachelor)
+* [Medienkompetenz](https://geomoer.github.io/moer-meko/){:target="_blank"} (Bachelor)
+
 **Sommersemester 2020**
 
-* [Remote sensing: Linking LiDAR and satellite data with machine learning](https://geomoer.github.io/moer-bsc-project-seminar-remote-sensing/){:target="_blank"} (Bachelor)
+* [Remote Sensing: Linking LiDAR and Satellite Data with Machine Learning](https://geomoer.github.io/moer-bsc-project-seminar-remote-sensing/){:target="_blank"} (Bachelor)
 
 
-**Wintersemester 2019/2020**
+**Weitere Kurse**
 
-* [Geo information science](https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2092236/index.html){:target="_blank"} (Master)
-* [Remote sensing](https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2285471/index.html){:target="_blank"} (Master)
-* [Data analysis](https://geomoer.github.io/moer-mpg-data-analysis/){:target="_blank"} (Master)
-* [Species distribution modelling](https://geomoer.github.io/moer-bsc-project-seminar-SDM/){:target="_blank"} (Bachelor)
+* [Geo Information Science](https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2092236/index.html){:target="_blank"} (Master)
+* [Remote Sensing](https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2285471/index.html){:target="_blank"} (Master)
+* [Species Distribution Modelling](https://geomoer.github.io/moer-bsc-project-seminar-SDM/){:target="_blank"} (Bachelor)
 
 
 
