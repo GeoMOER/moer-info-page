@@ -1,0 +1,12 @@
+<section class="page__content" itemprop="text">
+    {% for collection in site.collections %}
+      {% assign mydocs = site[collection.label] | group_by: 'category' %}
+      {% for cat in mydocs %}
+        {% assign items = cat.items | sort: 'order' %}
+		<a href="{{ items[0].url | prepend: site.baseurl}}" class="">{{ cat.name }}</a>
+		{% if items[0].content contains site.excerpt_separator %}
+	      {{ items[0].excerpt }}
+        {% endif %}
+	  {% endfor %}
+    {% endfor %}
+</section>

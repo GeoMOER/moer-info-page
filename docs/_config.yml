@@ -23,7 +23,7 @@
 
 # Serve on GitHub
 url: https://geomoer.github.io
-baseurl: "/moer-info-page/"
+baseurl: "/moer-info-page"
 
 
 ##### Title ###################################################################
@@ -50,7 +50,7 @@ excerpt_separator: <!--more-->
 markdown: kramdown
 # theme: minimal-mistakes-jekyll
 remote_theme: "GeoMOER/moer-jekyll-theme"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :   "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 
 # Default Settings
@@ -62,7 +62,7 @@ include:
 
 # Collections
 collections:
-  01_Philosophy:
+  philosophy:
     output: true
     permalink: /:collection/:title.html
   02_Courses:
@@ -81,18 +81,16 @@ collections:
 
 # Default settings
 defaults:
-  # 01_Philosophy 				# Folder name
+  # philosophy 				# Folder name
   - scope:
       path: ""
-      type: 01_Philosophy			# Folder name
+      type: philosophy			# Folder name
     values:
-      category: "Philosophy"			# Displayed name
-      tags: "Philosophy"
+      category: "philosophy"			# Displayed name
+      tags: "philosophy"
       layout: single
       sidebar:
         nav: "units"
-      toc: true
-      toc_label: On this page
   # 02_Courses
   - scope:
       path: ""

@@ -14,13 +14,24 @@ header:
   cta_label: Discover
   cta_url: "/units.html"
 excerpt: Find out more about our teaching philosophy, our courses, and our topics for theses
+
 feature_row_intro:
 - excerpt: Last modified 7.7.2020
+
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
   title: Intended learning outcomes
   excerpt: "Template..."
+  
+feature_row:
+  - image_path: assets/images/unit_images/u01/grid.png
+#    alt: "Philosophy"
+    title: "Some course"
+#    excerpt: "Philosophy: excerpt"
+    url: "/philosophy/01_testphilosophy.html"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"  
 ---
 
 
@@ -48,7 +59,7 @@ Beachten Sie bitte auch die aktuellen [Informationen zum Coronavirus](https://ww
 **Sommersemester 2020**
 
 * [Remote Sensing: Linking LiDAR and Satellite Data with Machine Learning](https://geomoer.github.io/moer-bsc-project-seminar-remote-sensing/){:target="_blank"} (Bachelor)
-
+{% include feature_row id="feature_row" type="center" %}
 
 **Weitere Kurse**
 

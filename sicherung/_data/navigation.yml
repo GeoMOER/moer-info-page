@@ -1,0 +1,21 @@
+# main links
+main:
+  - title: "Contents"
+    url: /units.html
+  - title: "Lab home"
+    url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/ecoinformatics
+  - title: "OER home"
+    url: https://oer.uni-marburg.de/ilias.php?ref_id=1651239&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=tp&baseClass=ilrepositorygui
+  - title: "About"
+    url: /about.html
+    
+    
+docs:
+  - title: Ways out
+    children:
+      - title: "Contents"
+        url: /units.html
+      - title: "Lab home"
+        url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/ecoinformatics
+      - title: "OER home"
+        url: https://oer.uni-marburg.de/ilias.php?ref_id=1651239&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=tp&baseClass=ilrepositorygui
