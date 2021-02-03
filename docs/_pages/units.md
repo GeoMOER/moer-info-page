@@ -1,43 +1,42 @@
 ---
 layout: splash
-title: Course Units
+title: This page
 permalink: /units.html
 sidebar:
         nav: "units"
 
 feature_row:
-  - image_path: assets/images/unit_images/u01/grid.png
+  - image_path: assets/images/front_page/RS.png
     alt: "Philosophy"
     title: "Philosophy"
-    excerpt: "Philosophy: excerpt"
-    url: "/philosophy/01_testphilosophy.html"
-    btn_label: "Show me more"
+    excerpt: "Problems instead of solutions"
+    url: "/01_philosophy/01_testphilosophy.html"
+    btn_label: "Discover"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/unit_images/u02/grid.png
-    alt: "02_Courses"
-    title: "02_Courses"
-    excerpt: "02_Courses: excerpt"
+  - image_path: assets/images/front_page/RS.png
+    alt: "Courses"
+    title: "Courses"
+    excerpt: "Our courses"
     url: "/02_Courses/01_Overview.html"
-    btn_label: "Show me more"
+    btn_label: "Discover"
     btn_class: "btn--primary"
     
-  - image_path: assets/images/unit_images/u02/grid.png
-    alt: "03_Theses"
-    title: "03_Theses"
-    excerpt: "03_Theses: excerpt"
+  - image_path: assets/images/front_page/RS.png
+    alt: "Theses"
+    title: "Theses"
+    excerpt: "Available and completed theses"
     url: "/03_Theses/01_Overview.html"
-    btn_label: "Show me more"
+    btn_label: "Discover"
     btn_class: "btn--primary"
 ---
 
-# Lehre in der Arbeitsgruppe Umweltinformatik
+<br>
 
-{% for post in site.posts limit: 5 %}
-  {% include archive-single.html %}
-{% endfor %}
+# Teaching in the Lab of Environmental Informatics
 
-{% include feature_row id="intro" type="center" %}
+<br>
+
 
 {% include feature_row %}
 
@@ -47,4 +46,10 @@ feature_row:
 your comment goes here
 and here
 {% include units_page %}
+
+{% for post in site.posts limit: 5 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include feature_row id="intro" type="center" %}
 -->

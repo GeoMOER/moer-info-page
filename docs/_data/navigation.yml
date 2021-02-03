@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "Course units"
+  - title: "Contents"
     url: /units.html
-  - title: "Cheat Sheet"
-    url: /cheatsheet.html
+  - title: "Lab Home"
+    url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
+  - title: "OER Home"
+    url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
+  - title: "Spotlights"
+    url: /spotlights.html
   - title: "About"
-    url: /about.html
-  - title: "Course home"
-    url: /index.html
-  - title: "OER home"
-    url: https://oer.uni-marburg.de/goto.php?target=crs_326&client_id=mriliasmooc
+    url: /about.html    
   - title: "Sitemap"
     url: /sitemap.html
 
@@ -18,11 +18,9 @@ main:
 docs:
   - title: Ways out
     children:
-      - title: "Course units"
+      - title: "Contents"
         url: /units.html
-      - title: "Cheat Sheet"
-        url: /cheatsheet.html
-      - title: "Course home"
-        url: /index.html
+      - title: "Lab Home"
+        url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
       - title: "OER home"
-        url: https://oer.uni-marburg.de/goto.php?target=crs_326&client_id=mriliasmooc
+        url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR

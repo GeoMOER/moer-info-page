@@ -27,7 +27,7 @@ baseurl: "/moer-info-page"
 
 
 ##### Title ###################################################################
-title: Lab of Environmental Informatics
+title: Teaching
 name: &name "Lab of Environmental Informatics" # &name is a YAML anchor which can be *referenced later
 email: dirk.zeuss@uni-marburg.de
 description: >- # this means to ignore newlines until next item
@@ -62,7 +62,7 @@ include:
 
 # Collections
 collections:
-  philosophy:
+  01_philosophy:
     output: true
     permalink: /:collection/:title.html
   02_Courses:
@@ -74,17 +74,14 @@ collections:
   04_tools:
     output: true
     permalink: /:collection/:title.html
-  spotlights:
-    output: true
-    permalink: /:collection/:title.html
  
 
 # Default settings
 defaults:
-  # philosophy 				# Folder name
+  # 01_philosophy 				# Folder name
   - scope:
       path: ""
-      type: philosophy			# Folder name
+      type: 01_philosophy			# Folder name
     values:
       category: "philosophy"			# Displayed name
       tags: "philosophy"
@@ -124,19 +121,7 @@ defaults:
       tags: "tools"
       layout: single
       sidebar:
-        nav: "units" 
-  # spotlights
-  - scope:
-      path: ""
-      type: spotlights
-    values:
-      category: "Spotlights"
-      tags: "spotlights"
-      layout: single
-      sidebar:
-        nav: "units" 
-      toc: true
-      toc_label: On this page           
+        nav: "units"       
   # pages
   - scope:
       path: "_pages"

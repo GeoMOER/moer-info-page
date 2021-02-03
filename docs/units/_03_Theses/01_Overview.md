@@ -1,5 +1,10 @@
 ---
 title: Overview
+toc: true
+header:
+  image: /assets/images/heroteaser/heroteaser_4to1.png
+#  image_description: "xxxxxx"
+#  caption: "xxx"
 ---
 
 Here you can find available topics for writing a thesis with us as well as already completed theses.

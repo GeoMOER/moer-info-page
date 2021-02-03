@@ -1,6 +1,10 @@
 ---
 title: Overview
-toc: false
+toc: true
+header:
+  image: /assets/images/heroteaser/heroteaser_6to1.jpg
+#  image_description: "xxxxxx"
+#  caption: "xxx"
 ---
 
 We offer interdisciplinary courses within the frameworks of the [B.Sc. Geography](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bsc_geographie){:target="_blank"}, 

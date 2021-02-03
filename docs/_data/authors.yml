@@ -1,17 +1,26 @@
 # /_data/authors.yml
 
-nauss:
-  name             : "Thomas Nauss"
-  avatar           : "/assets/images/nauss.jpg"
-  email            : "nauss@geo.uni-marburg.de"
-  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik/umweltinformatik"
-reudenbach:
-  name             : "Chris Reudenbach"
-  avatar           : "/assets/images/reudenbach.jpg"
-  email            : "reudenbach@uni-marburg.de"
 zeuss:
   name             : "Dirk Zeuss"
-  avatar           : "/assets/images/zeuss.jpg"
+  avatar           : "/assets/images/instructors/zeuss.jpg"
   email            : "dirk.zeuss@uni-marburg.de"
+reudenbach:
+  name             : "Chris Reudenbach"
+  avatar           : "/assets/images/instructors/reudenbach.jpg"
+  email            : "reudenbach@uni-marburg.de"  
+nauss:
+  name             : "Thomas Nauss"
+  avatar           : "/assets/images/instructors/nauss.jpg"
+  email            : "nauss@geo.uni-marburg.de"
 ludwig:
   name             : "Marvin Ludwig"
+  avatar           : "/assets/images/instructors/ludwig.jpg"
+  email            : "marvin.ludwig@geo.uni-marburg.de"
+wraase:
+  name             : "Luise Wraase"
+  avatar           : "/assets/images/instructors/wraase.jpg"
+  email            : wraasel@staff.uni-marburg.de
+ziegler:
+  name             : "Alice Ziegler"
+  avatar           : "/assets/images/instructors/ziegler.jpg"
+  email            : alice.ziegler@geo.uni-marburg.de

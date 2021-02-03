@@ -2,6 +2,10 @@
 title: Completed theses
 toc: true
 toc_label: Completed theses
+header:
+  image: /assets/images/heroteaser/heroteaser_4to1.png
+#  image_description: "xxxxxx"
+#  caption: "xxx"
 ---
 
 Here you can find a selection of already completed Bachelor, Master, State examination (L3), Diploma, and Dissertation theses
