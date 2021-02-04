@@ -23,27 +23,29 @@ feature_row_intro:
 - excerpt: Last modified 4.2.2021
 
 feature_row_overview:
-  - image_path: assets/images/front_page/RS.png
+  - image_path: assets/images/front_page/icon_philosophy.jpg
     alt: "Philosophy"
     title: "Philosophy"
     excerpt: "Problems instead of solutions"
     url: "/01_philosophy/01_testphilosophy.html"
     btn_label: "Discover"
     btn_class: "btn--primary"
-  - image_path: assets/images/front_page/RS.png
+  - image_path: assets/images/front_page/icon_courses.png
     alt: "Courses"
     title: "Courses"
     excerpt: "Bachelor, Master, L3"
-    url: "/02_Courses/01_Overview.html"
+    url: "/02_courses/01_courses.html"
     btn_label: "Discover"
     btn_class: "btn--primary"
-  - image_path: assets/images/front_page/RS.png
+  - image_path: assets/images/front_page/icon_theses.jpg
     alt: "Theses"
     title: "Theses"
     excerpt: "Available and completed theses"
-    url: "/03_Theses/01_Overview.html"
+    url: "/03_theses/01_theses.html"
     btn_label: "Discover"
     btn_class: "btn--primary"
+    image_description: "xxxxxx"
+    caption: "xxx"
 ---
 
 
@@ -88,7 +90,7 @@ Our team of instructors will be happy to assist you if you have any questions
 
 <!--
 funkychunkypool
-a
+{: .notice--info}
 b
 c
 -->

@@ -50,7 +50,7 @@ excerpt_separator: <!--more-->
 markdown: kramdown
 # theme: minimal-mistakes-jekyll
 remote_theme: "GeoMOER/moer-jekyll-theme"
-minimal_mistakes_skin    :   "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :    "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 
 # Default Settings

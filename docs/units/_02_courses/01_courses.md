@@ -6,17 +6,17 @@ header:
 #  image_description: "xxxxxx"
 #  caption: "xxx"
 feature_row_course_WiSe20/21:
-  - image_path: assets/images/front_page/RS.png
-    title: "Some course"
-    excerpt: "Course: excerpt"
-    url: "/philosophy/01_testphilosophy.html"
+  - image_path: assets/images/courses/icon_data_analysis2021.png
+    title: "Data Analysis"
+    excerpt: "Master"
+    url: "https://geomoer.github.io/moer-mpg-data-analysis/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
     
   - image_path: assets/images/front_page/RS.png
-    title: "Some course"
-    excerpt: "Course: excerpt"
-    url: "/philosophy/01_testphilosophy.html"
+    title: "Processing, Analysing and Interpreting Ground Radar Images"
+    excerpt: "Bachelor"
+    url: "https://geomoer.github.io/moer-bsc-project-seminar-ground-radar/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
 
@@ -76,7 +76,6 @@ Most of our courses are freely available online as [**Open Educational Resources
 ## Winter term 2020/2021
 
 
-* [Data Analysis](https://geomoer.github.io/moer-mpg-data-analysis/){:target="_blank"} (Master)
 * [Processing, Analysing and Interpreting Ground Radar Images](https://geomoer.github.io/moer-bsc-project-seminar-ground-radar/){:target="_blank"} (Bachelor)
 * [Medienkompetenz](https://geomoer.github.io/moer-meko/){:target="_blank"} (Bachelor)
 
