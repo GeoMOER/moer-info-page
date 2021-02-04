@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Theses
 toc: true
 header:
   image: /assets/images/heroteaser/heroteaser_4to1.png

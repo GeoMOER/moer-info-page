@@ -1,5 +1,5 @@
 ---
-title: Philosophy
+title: Teaching philosophy
 toc: true
 header:
   image: /assets/images/heroteaser/heroteaser_10to1.png

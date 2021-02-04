@@ -12,4 +12,6 @@ Our courses in the master programme "Physical Geography" can be found [here](htt
 <!--more-->
 
 
-xxx
+* [Geo Information Science](https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2092236/index.html){:target="_blank"} (Master)
+* [Remote Sensing](https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2285471/index.html){:target="_blank"} (Master)
+

@@ -65,10 +65,10 @@ collections:
   01_philosophy:
     output: true
     permalink: /:collection/:title.html
-  02_Courses:
+  02_courses:
     output: true
     permalink: /:collection/:title.html
-  03_Theses:
+  03_theses:
     output: true
     permalink: /:collection/:title.html
   04_tools:
@@ -88,25 +88,25 @@ defaults:
       layout: single
       sidebar:
         nav: "units"
-  # 02_Courses
+  # 02_courses
   - scope:
       path: ""
-      type: 02_Courses
+      type: 02_courses
     values:
       category: "Courses"
-      tags: "Courses"
+      tags: "courses"
       layout: single
       sidebar:
         nav: "units"
       toc: true
       toc_label: On this page
-  # 03_Theses
+  # 03_theses
   - scope:
       path: ""
-      type: 03_Theses
+      type: 03_theses
     values:
       category: "Theses"
-      tags: "Theses"
+      tags: "theses"
       layout: single
       sidebar:
         nav: "units"
