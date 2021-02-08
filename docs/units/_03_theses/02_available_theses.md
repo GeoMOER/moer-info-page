@@ -1,6 +1,7 @@
 ---
-title: Available topics
+title: Available theses
 toc: true
+toc_label: Available theses
 header:
   image: /assets/images/heroteaser/heroteaser_4to1.png
 #  image_description: "xxxxxx"

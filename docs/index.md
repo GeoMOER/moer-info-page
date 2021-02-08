@@ -20,32 +20,42 @@ header:
 excerpt: Find out more about our teaching philosophy, our courses, and our topics for theses
 
 feature_row_intro:
-- excerpt: Last modified 4.2.2021
+- excerpt: Last modified 8.2.2021
 
 feature_row_overview:
   - image_path: assets/images/front_page/icon_philosophy.jpg
     alt: "Philosophy"
     title: "Philosophy"
     excerpt: "Problems instead of solutions"
-    url: "/01_philosophy/01_testphilosophy.html"
+    url: "/01_philosophy/01_philosophy.html"
     btn_label: "Discover"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: assets/images/front_page/icon_courses.png
     alt: "Courses"
     title: "Courses"
     excerpt: "Bachelor, Master, L3"
     url: "/02_courses/01_courses.html"
     btn_label: "Discover"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: assets/images/front_page/icon_theses.jpg
     alt: "Theses"
     title: "Theses"
     excerpt: "Available and completed theses"
     url: "/03_theses/01_theses.html"
     btn_label: "Discover"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     image_description: "xxxxxx"
     caption: "xxx"
+    
+gallery:
+  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf
+    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Bale.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Hainich.pdf
+    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Hainich.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 
@@ -65,7 +75,11 @@ Please also note the current [information on the Corona virus](https://www.uni-m
 
 
 ## Call for theses
-xxx
+
+
+{% include gallery id="gallery" caption="" %}
+
+
 
 <!-- <br /> -->
 
@@ -91,6 +105,10 @@ Our team of instructors will be happy to assist you if you have any questions
 <!--
 funkychunkypool
 {: .notice--info}
+[Philosophy](somewhere){: .btn .btn--info .btn--x-large} 
+[Courses](somewhere){: .btn .btn--info .btn--x-large}
+[Theses](somewhere){: .btn .btn--info .btn--x-large}
+
 b
 c
 -->
