@@ -1,7 +1,3 @@
 Current defaults:
-- icons rectangular
-- ca 700px x 700px
-
-Converter:
-- for batch rescaling of multiple images
+- icons ratio: 350px x 250px (7/5, wie auf zeit.de)
 

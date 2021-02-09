@@ -13,14 +13,14 @@ date: '2019-10-15 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.5
-  overlay_image: "/assets/images/front_page/remsens_title.jpg"
+  overlay_image: "/assets/images/heroteaser/heroteaser_frontpage_remsens_title.jpg"
   caption: 'Lab of Environmental Informatics'
   cta_label: Discover
   cta_url: "/01_philosophy/01_philosophy.html"
 excerpt: Find out more about our teaching philosophy, our courses, and our topics for theses
 
 feature_row_intro:
-- excerpt: Last modified 8.2.2021
+- excerpt: Last modified 9.2.2021
 
 feature_row_overview:
   - image_path: assets/images/front_page/icon_philosophy.jpg
@@ -47,7 +47,7 @@ feature_row_overview:
     image_description: "xxxxxx"
     caption: "xxx"
     
-gallery:
+gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf
     image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Bale.jpg
     alt: "placeholder image 1"
@@ -77,7 +77,7 @@ Please also note the current [information on the Corona virus](https://www.uni-m
 ## Call for theses
 
 
-{% include gallery id="gallery" caption="" %}
+{% include gallery id="gallery_calls" caption="" %}
 
 
 

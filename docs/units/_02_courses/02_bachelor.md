@@ -8,7 +8,7 @@ header:
 #  caption: "xxx"
 feature_row_course_BSc_SoSe2020:
   - image_path: assets/images/courses/icon_PS_RS.png
-    title: "LiDAR and Satellite Data"
+    title: "Linking LiDAR and Satellite Data"
     excerpt: "Project seminar"
     url: "https://geomoer.github.io/moer-bsc-project-seminar-remote-sensing/"
     btn_label: "Go to course"

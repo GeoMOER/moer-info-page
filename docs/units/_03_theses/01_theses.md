@@ -12,7 +12,7 @@ Available topics for writing a thesis with us as well as already completed these
 <!--more-->
 
 
-**Do not hesitate to contact us if you are interested or have an own idea for your thesis!**
+**Contact us if you are interested or have an own idea for your thesis!**
 
 
 

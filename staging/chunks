@@ -1,34 +1,12 @@
-MULTIPLE AUTHORS
+## Scaling of images
 
-{% assign author = page.author | default: page.authors[0] | default: site.author %}
-{% assign author = site.data.authors[author] | default: author %}
+&emsp;&emsp;&emsp;" # image size depends on the length of the title... lazy workaround...
 
-<!-- uncomment to use only one author -->
-<!-- {% assign author = page.author | default: page.authors[0] | default: site.author %} -->
-<!-- {% assign author = site.data.authors[author] | default: author %}  -->
 
-{% for author in site.authors %}
-  {{ author[1].name }} -- {{ author[1].avatar }}
+## Multiple authors
+
+{% for i in page.authors %} 
+  {% assign author = site.data.authors[i] %}
+  {% include author-profile.html %}
+ <br /> 
 {% endfor %}
-
-
-{% for authors in page.authors %}
-{% assign authors = site.author %}
-{% include author-profile.html %}
-{% endfor %}
-
-{% include author-profile.html %}
-
-
-
-
-## works!!!
-# Lehrende
-
-{% assign author = page.authors[0] %}
-{% assign author = site.data.authors[author] %}
-{% include author-profile.html %}
-
-{% assign author = page.authors[1] %}
-{% assign author = site.data.authors[author] %}
-{% include author-profile.html %}

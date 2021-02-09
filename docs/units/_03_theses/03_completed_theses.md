@@ -10,6 +10,9 @@ header:
 
 Already completed Bachelor, Master, State examination (L3), Diploma, and Dissertation theses
 
+<span style="color:red">   Vollständigkeit: Bachelor stoppt bei 2018, Lehramt bei 2016   </span>
+
+
 <!--more-->
 
 
