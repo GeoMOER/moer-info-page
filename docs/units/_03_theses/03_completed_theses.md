@@ -8,7 +8,7 @@ header:
 #  caption: "xxx"
 ---
 
-Here you can find a selection of already completed Bachelor, Master, State examination (L3), Diploma, and Dissertation theses
+Already completed Bachelor, Master, State examination (L3), Diploma, and Dissertation theses
 
 <!--more-->
 
@@ -79,6 +79,10 @@ Fire – source of nitrogen input at El Tiro? Geostatistical analysis in an Ecua
 
 ## Master
 
+Assessing yield on central European wheat fields - A remote sensing and machine learning approach -- Eike Schott - 2020
+
+Spatio-temporal patterns of bush encroachment in South Africa based on time series of Landsat -- Maite Lezama Valdes - 2019
+
 Predicting grassland plant traits and biodiversity using hyperspectral aerial observation and a forward feature selection machine learning approach - Marvin Ludwig - 2018 
 
 Monitoring growth using 3D point clouds derived from low-cost UAV RGB imagery – a case study on maize in central Germany - Max Eysholdt - 2018 
@@ -144,13 +148,15 @@ The potential of artificial oyster reefs as coastal protection in the Oostersche
 
 ## Dissertation
 
-Data-driven model development in environmental geography – Hanna Meyer - 2017
+[Data-driven model development in environmental geography](https://archiv.ub.uni-marburg.de/diss/z2018/0082/pdf/dhm.pdf) – Hanna Meyer - 2017
 
 Global climate change vs. local land-use change and its impact on the atmospheric water input along an elevation and disturbance gradient at Mt Kilimanjaro, Tanzania – Insa Otte - 2017
 
-Geoinformationsausbildung in der Hochschule. Kompetenzen, curriculare Anforderungen und empirische Befunde – Uwe Schulze - 2017
+[Geoinformationsausbildung in der Hochschule. Kompetenzen, curriculare Anforderungen und empirische Befunde](https://www.researchgate.net/profile/Uwe-Schulze/publication/348815635_Geoinformationsausbildung_in_der_Hochschule_Kompetenzen_curriculare_Anforderungen_und_empirische_Befunde_Diss_Johann-Wolfgang_Goethe-Universitat_zu_Frankfurt_am_Main_2017_Aktualisierte_und_korrigierte/links/60119ae9299bf1b33e2d2475/Geoinformationsausbildung-in-der-Hochschule-Kompetenzen-curriculare-Anforderungen-und-empirische-Befunde-Diss-Johann-Wolfgang-Goethe-Universitaet-zu-Frankfurt-am-Main-2017-Aktualisierte-und-korrigie.pdf) – Uwe Schulze - 2017
 
-A machine learning based 24-h-technique for an area-wide rainfall retrieval using MSG SEVIRI data over Central Europe – Meike Kühnlein - 2014
+On the Coupled Effects of Global Climate Change, ENSO/IOD Teleconnections, and Local Land-Use Change on Water Availability and Vegetation Dynamics in the Kilimanjaro Region -- Florian Detsch - 2016
+
+[A machine learning based 24-h-technique for an area-wide rainfall retrieval using MSG SEVIRI data over Central Europe](https://archiv.ub.uni-marburg.de/diss/z2014/0475/pdf/dmk.pdf) – Meike Kühnlein - 2014
 
 
 

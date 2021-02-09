@@ -1,3 +1,7 @@
+Current defaults:
 - icons rectangular
-- ca 500px x 500px
-- irgendwann mal mit einem bash script skalierbar
+- ca 700px x 700px
+
+Converter:
+- for batch rescaling of multiple images
+

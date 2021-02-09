@@ -40,36 +40,7 @@ feature_row_course_WiSe20/21:
     url: "https://geomoer.github.io/moer-mpg-gis/"
     btn_label: "Go to course"
     btn_class: "btn--primary" 
-  
-    
-feature_row_course_other:
-  - image_path: assets/images/front_page/RS.png
-    title: "Some course"
-    excerpt: "Course: excerpt"
-    url: "/philosophy/01_testphilosophy.html"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
-    
-  - image_path: assets/images/front_page/RS.png
-    title: "Some course"
-    excerpt: "Course: excerpt"
-    url: "/philosophy/01_testphilosophy.html"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
 
-  - image_path: assets/images/front_page/RS.png
-    title: "Some course"
-    excerpt: "Course: excerpt"
-    url: "/philosophy/01_testphilosophy.html"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
-
-  - image_path: assets/images/front_page/RS.png
-    title: "Some course"
-    excerpt: "Course: excerpt"
-    url: "/philosophy/01_testphilosophy.html"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
     
 feature_row_extra:
   - image_path: assets/images/courses/icon_R.png
