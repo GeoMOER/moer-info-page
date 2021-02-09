@@ -2,7 +2,9 @@
 #!/bin/bash
 
 for i in icon*.*;
-do convert $i -resize 1000x750\! $i;
+do
+#convert $i -resample 72x72 $i; #7/5 zeit.de
+convert $i  -density 72 -quality 75 -resize 350x250\! $i; #7/5 zeit.de
 #do convert $i -resize 1000x750\! "$(echo "$i" | cut -f 1 -d '.').png";
 done
 

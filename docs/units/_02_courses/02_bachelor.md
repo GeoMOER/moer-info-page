@@ -15,7 +15,7 @@ feature_row_course_BSc_SoSe2020:
     btn_class: "btn--primary"
 
 feature_row_course_BSc_WiSe19/20:
-  - image_path: assets/images/courses/icon_SDM_wide.png
+  - image_path: assets/images/courses/icon_SDM.png
     title: "Species Distribution Modelling"
     excerpt: "Project seminar"
     url: "https://geomoer.github.io/moer-bsc-project-seminar-SDM/"
@@ -30,12 +30,12 @@ Below are our most recent bachelor courses.
 
 # Sommer term 2020
 
-{% include feature_row id="feature_row_course_BSc_SoSe2020" %}
+{% include feature_row id="feature_row_course_BSc_SoSe2020" type="left" %}
 
 
 # Winter term 2019/2020
 
-{% include feature_row id="feature_row_course_BSc_WiSe19/20" %}
+{% include feature_row id="feature_row_course_BSc_WiSe19/20" type="left" %}
 
 
 

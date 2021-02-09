@@ -10,7 +10,7 @@ header:
 feature_row_course_MSc_SoSe2020:
   - image_path: assets/images/courses/icon_PS_RS.png
     title: "???"
-    excerpt: "???"
+#    excerpt: "???"
     url: "https://geomoer.github.io/moer-bsc-project-seminar-remote-sensing/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
@@ -38,7 +38,7 @@ Below are our most recent master courses.
 
 # Sommer term 2020
 
-{% include feature_row id="feature_row_course_MSc_SoSe2020" %}
+{% include feature_row id="feature_row_course_MSc_SoSe2020" type="left" %}
 
 
 # Winter term 2019/2020
