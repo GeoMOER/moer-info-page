@@ -20,6 +20,14 @@ wraase:
   name             : "Luise Wraase"
   avatar           : "/assets/images/instructors/wraase.jpg"
   email            : wraasel@staff.uni-marburg.de
+gottwald:
+  name             : "Jannis Gottwald"
+  avatar           : "/assets/images/courses/icon_todo.png"
+  email            : jannis.gottwald@geo.uni-marburg.de
+friess:
+  name             : "Nicolas Friess"
+  avatar           : "/assets/images/courses/icon_todo.png"
+  email            : friess@staff.uni-marburg.de
 ziegler:
   name             : "Alice Ziegler"
   avatar           : "/assets/images/instructors/ziegler.jpg"

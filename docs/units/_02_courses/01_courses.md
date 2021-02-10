@@ -1,6 +1,7 @@
 ---
 title: Courses
 toc: true
+toc_label: Courses
 header:
   image: /assets/images/heroteaser/heroteaser_6to1.jpg
 #  image_description: "xxxxxx"

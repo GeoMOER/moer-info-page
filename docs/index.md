@@ -7,6 +7,8 @@ authors:
   - nauss
   - ludwig
   - wraase
+  - gottwald
+  - friess
   - ziegler
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
@@ -20,7 +22,7 @@ header:
 excerpt: Find out more about our teaching philosophy, our courses, and our topics for theses
 
 feature_row_intro:
-- excerpt: Last modified 9.2.2021
+- excerpt: Last modified 10.2.2021
 
 feature_row_overview:
   - image_path: assets/images/front_page/icon_philosophy.jpg
@@ -50,12 +52,12 @@ feature_row_overview:
 gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf
     image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Bale.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+#    alt: "placeholder image 1"
+    title: "Ausschreibung Klimamodellierung Bale Mountains"
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Hainich.pdf
     image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Hainich.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+#    alt: "placeholder image 1"
+    title: "Ausschreibung Klimamodellierung Hainich"
 ---
 
 
@@ -96,7 +98,7 @@ Our team of instructors will be happy to assist you if you have any questions
 
 {% for i in page.authors %} 
   {% assign author = site.data.authors[i] %}
-  {% include author-profile.html %}
+  {% include author-profile.html type="center"%}
  <br /> 
 {% endfor %}
 

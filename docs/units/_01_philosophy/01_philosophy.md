@@ -1,6 +1,7 @@
 ---
 title: Teaching philosophy
 toc: true
+toc_label: Teaching philosophy
 header:
   image: /assets/images/heroteaser/heroteaser_10to1.png
 #  image_description: "xxxxxx"

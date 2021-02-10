@@ -1,5 +1,7 @@
 ---
 title: Evaluation criteria for Master theses
+toc: true
+toc_label: Evaluation criteria
 header:
   image: /assets/images/heroteaser/heroteaser_10to1.png
 #  image_description: "xxxxxx"
