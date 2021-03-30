@@ -1,5 +1,5 @@
 ---
-title: Teaching in the Lab of Environmental Informatics
+title: Courses in the Lab of Environmental Informatics
 toc: true
 authors:
   - zeuss
@@ -18,32 +18,52 @@ header:
   overlay_image: "/assets/images/heroteaser/heroteaser_frontpage_remsens_title.jpg"
   caption: 'Lab of Environmental Informatics'
   cta_label: Discover
-  cta_url: "/01_philosophy/01_philosophy.html"
-excerpt: Find out more about our teaching philosophy, our courses, and our topics for theses
+  cta_url: "/01_courses/01_overview.html"
+excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 10.2.2021
+- excerpt: Last modified 30.3.2021
 
-feature_row_overview:
+feature_row_onthispage:
+  - image_path: assets/images/front_page/icon_philosophy.jpg
+    alt: "Bachelor and L3"
+    title: "Bachelor and L3"
+    excerpt: "Bachelor and L3"
+    url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/philosophy"
+    btn_label: "Discover"
+    btn_class: "btn--info"
+  - image_path: assets/images/front_page/icon_theses.jpg
+    alt: "Master"
+    title: "Master"
+    excerpt: "Master"
+    url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/theses"
+    btn_label: "Discover"
+    btn_class: "btn--info"
+    image_description: "xxxxxx"
+    caption: "xxx"
+  - image_path: assets/images/front_page/icon_theses.jpg
+    alt: "Extracurricular courses"
+    title: "Extracurricular courses"
+    excerpt: "Extracurricular"
+    url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/theses"
+    btn_label: "Discover"
+    btn_class: "btn--info"
+    image_description: "xxxxxx"
+    caption: "xxx"    
+
+feature_row_lablinks:
   - image_path: assets/images/front_page/icon_philosophy.jpg
     alt: "Philosophy"
     title: "Philosophy"
     excerpt: "Problems instead of solutions"
-    url: "/01_philosophy/01_philosophy.html"
-    btn_label: "Discover"
-    btn_class: "btn--info"
-  - image_path: assets/images/front_page/icon_courses.png
-    alt: "Courses"
-    title: "Courses"
-    excerpt: "Bachelor, Master, L3"
-    url: "/02_courses/01_courses.html"
+    url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/philosophy"
     btn_label: "Discover"
     btn_class: "btn--info"
   - image_path: assets/images/front_page/icon_theses.jpg
     alt: "Theses"
     title: "Theses"
     excerpt: "Available and completed theses"
-    url: "/03_theses/01_theses.html"
+    url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/theses"
     btn_label: "Discover"
     btn_class: "btn--info"
     image_description: "xxxxxx"
@@ -86,11 +106,16 @@ Please also note the current [information on the Corona virus](https://www.uni-m
 <!-- <br /> -->
 
 
+
 # On this page
-{% include feature_row id="feature_row_overview" %}
+{% include feature_row id="feature_row_onthispage" %}
 
 
-# More
+# Find out more on our lab homepage
+{% include feature_row id="feature_row_lablinks" %}
+
+
+# Need help?
 Our team of instructors will be happy to assist you if you have any questions
 
 

@@ -62,36 +62,16 @@ include:
 
 # Collections
 collections:
-  01_philosophy:
+  01_courses:
     output: true
-    permalink: /:collection/:title.html
-  02_courses:
-    output: true
-    permalink: /:collection/:title.html
-  03_theses:
-    output: true
-    permalink: /:collection/:title.html
-  04_tools:
-    output: true
-    permalink: /:collection/:title.html
- 
+    permalink: /:collection/:title.html 
 
 # Default settings
 defaults:
-  # 01_philosophy 				# Folder name
+  # 01_courses
   - scope:
       path: ""
-      type: 01_philosophy			# Folder name
-    values:
-      category: "philosophy"			# Displayed name
-      tags: "philosophy"
-      layout: single
-      sidebar:
-        nav: "units"
-  # 02_courses
-  - scope:
-      path: ""
-      type: 02_courses
+      type: 01_courses
     values:
       category: "Courses"
       tags: "courses"
@@ -100,28 +80,7 @@ defaults:
         nav: "units"
       toc: true
       toc_label: On this page
-  # 03_theses
-  - scope:
-      path: ""
-      type: 03_theses
-    values:
-      category: "Theses"
-      tags: "theses"
-      layout: single
-      sidebar:
-        nav: "units"
-      toc: true
-      toc_label: On this page  
-  # 04_tools
-  - scope:
-      path: ""
-      type: 04_tools
-    values:
-      category: "Tools"
-      tags: "tools"
-      layout: single
-      sidebar:
-        nav: "units"       
+       
   # pages
   - scope:
       path: "_pages"

@@ -1,5 +1,5 @@
 ---
-title: Bachelor (B.Sc.)
+title: Bachelor and L3
 toc: true
 toc_label: Bachelor courses
 header:
@@ -13,6 +13,12 @@ feature_row_course_BSc_SoSe2020:
     url: "https://geomoer.github.io/moer-bsc-project-seminar-remote-sensing/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
+  - image_path: assets/images/courses/icon_todo.png
+    title: Geoinformatik &emsp;&emsp;
+    excerpt: "???"
+    url: "todo"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"
 
 feature_row_course_BSc_WiSe19/20:
   - image_path: assets/images/courses/icon_SDM.png
@@ -21,9 +27,15 @@ feature_row_course_BSc_WiSe19/20:
     url: "https://geomoer.github.io/moer-bsc-project-seminar-SDM/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
+  - image_path: assets/images/courses/icon_meko.jpg
+    title: "Medienkompetenz"
+    excerpt: "Bachelor / L3"
+    url: "https://geomoer.github.io/moer-meko/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"    
 ---
 
-Below are our most recent bachelor courses.
+Below are our most recent bachelor and L3 courses.
 
 <!--more-->
 
@@ -41,7 +53,9 @@ Below are our most recent bachelor courses.
 
 # More
 
-More courses in the bachelor programme "Geography" can be found [here](https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR){:target="_blank"}
+More courses in the bachelor programme "Geography" can be found [here](https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR){:target="_blank"}.
+
+More courses in the L3 programme "Teacher of Geography for Grammar Schools" can be found [here](https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR){:target="_blank"}.
 
 
 

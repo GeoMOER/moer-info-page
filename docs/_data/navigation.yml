@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Contents"
-    url: /01_philosophy/01_philosophy.html
+  - title: "Courses"
+    url: /01_courses/01_overview.html
   - title: "Lab Home"
     url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
   - title: "OER Home"
@@ -18,8 +18,8 @@ main:
 docs:
   - title: Ways out
     children:
-      - title: "Contents"
-        url: /01_philosophy/01_philosophy.html
+      - title: "Courses"
+        url: /01_courses/01_overview.html
       - title: "Lab Home"
         url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
       - title: "OER home"

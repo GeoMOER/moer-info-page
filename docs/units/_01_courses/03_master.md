@@ -1,5 +1,5 @@
 ---
-title: Master (M.Sc.)
+title: Master
 toc: true
 toc_label: Master courses
 header:
