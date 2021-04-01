@@ -7,8 +7,14 @@ header:
 #  image_description: "xxxxxx"
 #  caption: "xxx"
 feature_row_courses_BSc:
+  - image_path: assets/images/courses/icon_aslo.jpg
+    title: "Außerschulische Lernorte"
+    excerpt: "Außerschulische Lernorte und Bildung für nachhaltige Entwicklung im Geographieunterricht"
+    url: "https://geomoer.github.io/moer-l3-aslo/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"
   - image_path: assets/images/courses/icon_Geoinformatik_Bsc.jpg
-    title: Geoinformatik &emsp;&emsp;
+    title: Geoinformatik
     excerpt: Manipulation und Analyse räumlicher Daten
     url: "https://geomoer.github.io//moer-bsc-geoinfo-basic/"
     btn_label: "Go to course"
@@ -31,12 +37,13 @@ feature_row_courses_BSc:
     url: "https://geomoer.github.io/moer-bsc-project-seminar-SDM/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
+    
 ---
 
 Below are our most recent bachelor and L3 courses.
 <!--more-->
 
-{% include feature_row id="feature_row_courses_BSc" type="left" %}
+{% include feature_row id="feature_row_courses_BSc" %}
 
 
 # More
