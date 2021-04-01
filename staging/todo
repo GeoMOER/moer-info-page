@@ -1,0 +1,30 @@
+Entscheiden für Gliederung nach
+  - Zeitlich: http://localhost:4000/moer-info-page/01_courses/01_overview.html
+  - Studiengang / Kompetenzniveau: http://localhost:4000/moer-info-page/01_courses/02_bachelor_l3.html
+  - Gar nicht: http://localhost:4000/moer-info-page/courses.html
+  
+
+# Aktuelles
+
+- Zeitliche Gliederung möglichst entfernen (Semesterweise) Das macht die Pflege zu nervig und ist nicht nötig.
+- teaser und icon size vereinheitlichen
+- Titelseite überarbeiten
+
+# Sonstiges
+
+- // in url zu / machen
+
+
+# Wunschliste
+
+- add comment / responses possibility for spotlight page: (wunschliste)
+https://medium.com/@raravi/adding-comments-to-a-static-site-31506e77fc41
+
+
+
+
+
+
+
+
+
