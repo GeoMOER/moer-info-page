@@ -7,22 +7,14 @@ header:
 #  image_description: "xxxxxx"
 #  caption: "xxx"
 
-feature_row_course_MSc_SoSe2020:
-  - image_path: assets/images/courses/icon_todo.png
-    title: "Umweltsysteme"
-    excerpt: "Supplementary module"
-    url: "todo"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
-
-feature_row_course_MSc_WiSe19/20:
+feature_row_courses_MSc:
   - image_path: assets/images/courses/icon_data_analysis_2020.jpg
     title: "Data Analysis"
     excerpt: "Basic module"
     url: "https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2287352/index.html"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
+       
   - image_path: assets/images/courses/icon_GIS.jpg
     title: "Geo Information Science"
     excerpt: "Supplementary module"
@@ -36,6 +28,13 @@ feature_row_course_MSc_WiSe19/20:
     url: "https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2285471/index.html"
     btn_label: "Go to course"
     btn_class: "btn--primary"
+    
+  - image_path: assets/images/courses/icon_todo.png
+    title: "Umweltsysteme"
+    excerpt: "Supplementary module"
+    url: "todo"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"
 ---
 
 Below are our most recent master courses.
@@ -43,14 +42,10 @@ Below are our most recent master courses.
 <!--more-->
 
 
-# Sommer term 2020
 
-{% include feature_row id="feature_row_course_MSc_SoSe2020" type="left" %}
+{% include feature_row id="feature_row_courses_MSc" type="left" %}
 
 
-# Winter term 2019/2020
-
-{% include feature_row id="feature_row_course_MSc_WiSe19/20" %}
 
 
 # More

@@ -22,39 +22,49 @@ header:
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 30.3.2021
+- excerpt: Last modified 01.04.2021
+
+gallery_calls:
+  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf
+    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Bale.jpg
+#    alt: "placeholder image 1"
+    title: "Ausschreibung Klimamodellierung Bale Mountains"
+  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Hainich.pdf
+    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Hainich.jpg
+#    alt: "placeholder image 1"
+    title: "Ausschreibung Klimamodellierung Hainich"
 
 feature_row_onthispage:
-  - image_path: assets/images/front_page/icon_philosophy.jpg
+  - image_path: assets/images/front_page/icon_bachelor.png
     alt: "Bachelor and L3"
-    title: "Bachelor and L3"
-    excerpt: "Bachelor and L3"
-    url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/philosophy"
+    title: "Bachelor and L3 courses"
+    # excerpt: "Bachelor and L3"
+    url: "/01_courses/02_bachelor_l3.html"
     btn_label: "Discover"
     btn_class: "btn--info"
-  - image_path: assets/images/front_page/icon_theses.jpg
+  - image_path: assets/images/front_page/icon_master.png
     alt: "Master"
-    title: "Master"
-    excerpt: "Master"
-    url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/theses"
+    title: "Master courses"
+    # excerpt: "Master"
+    url: "/01_courses/03_master.html"
     btn_label: "Discover"
     btn_class: "btn--info"
     image_description: "xxxxxx"
     caption: "xxx"
-  - image_path: assets/images/front_page/icon_theses.jpg
+  - image_path: assets/images/front_page/icon_extracurricular.png
     alt: "Extracurricular courses"
     title: "Extracurricular courses"
-    excerpt: "Extracurricular"
-    url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/theses"
+    # excerpt: "Extracurricular"
+    url: "/01_courses/04_extracurricular.html"
     btn_label: "Discover"
     btn_class: "btn--info"
     image_description: "xxxxxx"
-    caption: "xxx"    
+    caption: "xxx"
 
 feature_row_lablinks:
   - image_path: assets/images/front_page/icon_philosophy.jpg
     alt: "Philosophy"
-    title: "Philosophy"
+    title: "Teaching Philosophy"
     excerpt: "Problems instead of solutions"
     url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/philosophy"
     btn_label: "Discover"
@@ -68,16 +78,6 @@ feature_row_lablinks:
     btn_class: "btn--info"
     image_description: "xxxxxx"
     caption: "xxx"
-    
-gallery_calls:
-  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf
-    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Bale.jpg
-#    alt: "placeholder image 1"
-    title: "Ausschreibung Klimamodellierung Bale Mountains"
-  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Hainich.pdf
-    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Hainich.jpg
-#    alt: "placeholder image 1"
-    title: "Ausschreibung Klimamodellierung Hainich"
 ---
 
 

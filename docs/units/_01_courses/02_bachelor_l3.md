@@ -6,25 +6,17 @@ header:
   image: /assets/images/heroteaser/heroteaser_6to1.jpg
 #  image_description: "xxxxxx"
 #  caption: "xxx"
-feature_row_course_BSc_SoSe2020:
+feature_row_courses_BSc:
+  - image_path: assets/images/courses/icon_Geoinformatik_Bsc.jpg
+    title: Geoinformatik &emsp;&emsp;
+    excerpt: Manipulation und Analyse räumlicher Daten
+    url: "https://geomoer.github.io//moer-bsc-geoinfo-basic/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"
   - image_path: assets/images/courses/icon_PS_RS.png
     title: "Linking LiDAR and Satellite Data"
     excerpt: "Project seminar"
     url: "https://geomoer.github.io/moer-bsc-project-seminar-remote-sensing/"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
-  - image_path: assets/images/courses/icon_todo.png
-    title: Geoinformatik &emsp;&emsp;
-    excerpt: "???"
-    url: "todo"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
-
-feature_row_course_BSc_WiSe19/20:
-  - image_path: assets/images/courses/icon_SDM.png
-    title: "Species Distribution Modelling"
-    excerpt: "Project seminar"
-    url: "https://geomoer.github.io/moer-bsc-project-seminar-SDM/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
   - image_path: assets/images/courses/icon_meko.jpg
@@ -32,23 +24,19 @@ feature_row_course_BSc_WiSe19/20:
     excerpt: "Bachelor / L3"
     url: "https://geomoer.github.io/moer-meko/"
     btn_label: "Go to course"
-    btn_class: "btn--primary"    
+    btn_class: "btn--primary"
+  - image_path: assets/images/courses/icon_SDM.png
+    title: "Species Distribution Modelling"
+    excerpt: "Project seminar"
+    url: "https://geomoer.github.io/moer-bsc-project-seminar-SDM/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"
 ---
 
 Below are our most recent bachelor and L3 courses.
-
 <!--more-->
 
-
-# Sommer term 2020
-
-{% include feature_row id="feature_row_course_BSc_SoSe2020" type="left" %}
-
-
-# Winter term 2019/2020
-
-{% include feature_row id="feature_row_course_BSc_WiSe19/20" type="left" %}
-
+{% include feature_row id="feature_row_courses_BSc" type="left" %}
 
 
 # More
