@@ -7,8 +7,8 @@ authors:
   - nauss
   - ludwig
   - wraase
-  - gottwald
-  - friess
+#  - gottwald
+#  - friess
   - ziegler
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
@@ -18,11 +18,11 @@ header:
   overlay_image: "/assets/images/heroteaser/heroteaser_frontpage_remsens_title.jpg"
   caption: 'Lab of Environmental Informatics'
   cta_label: Discover
-  cta_url: "/01_courses/01_overview.html"
+  cta_url: "/courses.html"
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 01.04.2021
+- excerpt: Last modified 07.04.2021
 
 gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf
@@ -106,10 +106,10 @@ Please also note the current [information on the Corona virus](https://www.uni-m
 <!-- <br /> -->
 
 
-
+<!--
 # On this page
 {% include feature_row id="feature_row_onthispage" %}
-
+-->
 
 # Find out more on our lab homepage
 {% include feature_row id="feature_row_lablinks" %}

@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "Courses sub"
-    url: /01_courses/01_overview.html
-  - title: "Courses all"
+  - title: "Overview Courses"
     url: /courses.html 
   - title: "Lab Home"
     url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
@@ -20,8 +18,8 @@ main:
 docs:
   - title: Ways out
     children:
-      - title: "Courses"
-        url: /01_courses/01_overview.html
+      - title: "Overview Courses"
+        url: /courses.html
       - title: "Lab Home"
         url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
       - title: "OER home"
