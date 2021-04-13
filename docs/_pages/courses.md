@@ -50,7 +50,12 @@ feature_row_courses_BSc_l3:
     url: "https://geomoer.github.io/moer-bsc-project-seminar-SDM/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-
+    
+  - image_path: assets/images/courses/icon_sysdyn.png
+    title: "Dynamische Systeme in der Geographie"
+    excerpt: "Simulation dynamischer Prozesse"
+    url: "https://geomoer.github.io/moer-bsc-systemdynamik/"
+    btn_label: "Go to course"
   
 #
 feature_row_courses_MSc:
