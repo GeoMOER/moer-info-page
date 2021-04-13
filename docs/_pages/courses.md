@@ -51,7 +51,7 @@ feature_row_courses_BSc_l3:
     btn_label: "Go to course"
     btn_class: "btn--primary"
     
-  - image_path: assets/images/courses/icon_sysdyn.png
+  - image_path: assets/images/courses/icon_systemdynamik.png
     title: "Dynamische Systeme in der Geographie"
     excerpt: "Simulation dynamischer Prozesse"
     url: "https://geomoer.github.io/moer-bsc-systemdynamik/"
