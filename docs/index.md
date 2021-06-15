@@ -22,7 +22,7 @@ header:
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 23.04.2021
+- excerpt: Last modified 15.06.2021
 
 gallery_calls:
 #  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf

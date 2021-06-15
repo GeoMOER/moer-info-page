@@ -46,7 +46,7 @@ feature_row_courses_BSc_l3:
     
   - image_path: assets/images/courses/icon_SDM_2021.png
     title: "Species Distribution Modelling "
-    excerpt: "International course with participants from Pakistan and Ethiopia"
+    excerpt: "International course on species distribution modelling techniques"
     url: "https://geomoer.github.io/moer-bsc-project-seminar-SDM/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
