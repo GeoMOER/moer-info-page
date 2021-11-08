@@ -5,10 +5,7 @@ authors:
   - zeuss
   - reudenbach
   - nauss
-  - ludwig
   - wraase
-#  - gottwald
-#  - friess
   - ziegler
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
@@ -22,7 +19,7 @@ header:
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 15.06.2021
+- excerpt: Last modified 08.11.2021
 
 gallery_calls:
 #  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf

@@ -65,6 +65,13 @@ feature_row_courses_MSc:
     url: "https://geomoer.github.io/moer-mpg-data-analysis/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
+    
+  - image_path: assets/images/courses/icon_GeoAI.png
+    title: "GeoAI"
+    excerpt: "Understand spatial problems, apply remote sensing, and use AI to resiliently predict spatial patterns"
+    url: "https://geomoer.github.io/geoAI/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"    
        
   - image_path: assets/images/courses/icon_GIS.jpg
     title: "Geo Information Science"
