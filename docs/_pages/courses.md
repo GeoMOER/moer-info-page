@@ -15,14 +15,7 @@ feature_row_courses_BSc_l3:
     url: "https://geomoer.github.io/moer-l3-aslo/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
-  - image_path: assets/images/courses/icon_Geoinformatik_Bsc.jpg
-    title: Geoinformatik
-    excerpt: Manipulation und Analyse räumlicher Daten
-    url: "https://geomoer.github.io//moer-bsc-geoinfo-basic/"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
-    
+   
   - image_path: assets/images/courses/icon_PS_radar.jpg
     title: "Ground Radar"
     excerpt: "Processing, analysing and interpreting ground radar images"
@@ -51,11 +44,6 @@ feature_row_courses_BSc_l3:
     btn_label: "Go to course"
     btn_class: "btn--primary"
     
-  - image_path: assets/images/courses/icon_systemdynamik.png
-    title: "Dynamische Systeme in der Geographie"
-    excerpt: "Simulation dynamischer Prozesse"
-    url: "https://geomoer.github.io/moer-bsc-systemdynamik/"
-    btn_label: "Go to course"
   
 #
 feature_row_courses_MSc:
@@ -73,12 +61,6 @@ feature_row_courses_MSc:
     btn_label: "Go to course"
     btn_class: "btn--primary"    
        
-  - image_path: assets/images/courses/icon_GIS.jpg
-    title: "Geo Information Science"
-    excerpt: "Fast - Affordable - Good. Development and Operationalization of Spatial Analysis"
-    url: "https://geomoer.github.io/moer-mpg-gis/"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
 
   - image_path: assets/images/courses/icon_remote_sensing.jpg
     title: "Remote Sensing"
@@ -93,7 +75,7 @@ feature_row_extra:
   - image_path: assets/images/courses/icon_GIS.jpg
     title: "GIS Basics"
     excerpt: "Basic Course Information for GI & RS"
-    url: "https://geomoer.github.io/moer-mpg-rsgi-basics/"
+    url: "https://geomoc.github.io/geomoc-mpg-rsgi-basics/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
     
