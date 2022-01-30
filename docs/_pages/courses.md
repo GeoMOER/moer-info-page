@@ -72,12 +72,7 @@ feature_row_courses_MSc:
     
 #  
 feature_row_extra:
-  - image_path: assets/images/courses/icon_GIS.jpg
-    title: "GIS Basics"
-    excerpt: "Basic Course Information for GI & RS"
-    url: "https://geomoer.github.io/geomoer-mpg-rsgi-basics/"
-    btn_label: "Go to course"
-    btn_class: "btn--primary"
+
     
   - image_path: assets/images/courses/icon_R.png
     title: "R Basics"
