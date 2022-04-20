@@ -3,10 +3,11 @@ title: Courses in the Lab of Environmental Informatics
 toc: true
 authors:
   - zeuss
-  - reudenbach
   - nauss
   - wraase
+  - reudenbach
   - ziegler
+  - bhandari
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
 header:
@@ -19,7 +20,7 @@ header:
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 08.11.2021
+- excerpt: Last modified 20.04.2022
 
 gallery_calls:
 #  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf

@@ -4,6 +4,10 @@ zeuss:
   name             : "Dirk Zeuss"
   avatar           : "/assets/images/instructors/zeuss.jpg"
   email            : "dirk.zeuss@uni-marburg.de"
+  bio              : "Philipps-Universität Marburg"
+  location         : "Marburg, DE"
+  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dirk-zeuss"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
 reudenbach:
   name             : "Christoph Reudenbach"
   avatar           : "/assets/images/instructors/reudenbach.jpg"
@@ -32,3 +36,8 @@ ziegler:
   name             : "Alice Ziegler"
   avatar           : "/assets/images/instructors/ziegler.jpg"
   email            : alice.ziegler@geo.uni-marburg.de
+bhandari:
+  name             : "Netra Bhandari"
+  avatar           : "/assets/images/instructors/bhandari.jpeg"
+  email            : "netra.bhandari@geo.uni-marburg.de"
+

@@ -61,13 +61,19 @@ feature_row_courses_MSc:
     btn_label: "Go to course"
     btn_class: "btn--primary"    
        
-
   - image_path: assets/images/courses/icon_remote_sensing.jpg
     title: "Remote Sensing"
     excerpt: "Handle remote sensing information, define workflows, identify objects, and predict land cover in space"
     url: "https://geomoer.github.io/moer-mpg-remote-sensing/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
+    
+  - image_path: assets/images/courses/icon_upscaling.png
+    title: "Upscaling biodiversity"
+    excerpt: "Use upscaling methods and multi-sensor data for predicting biodiversity"
+    url: "https://geomoer.github.io/moer-mpg-upscaling/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"    
 
     
 #  
