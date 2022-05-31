@@ -20,16 +20,14 @@ header:
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 20.04.2022
+- excerpt: Last modified 31.05.2022
 
 gallery_calls:
-#  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Bale.pdf
-#    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Bale.jpg
-#    alt: "placeholder image 1"
-#    title: "Ausschreibung Klimamodellierung Bale Mountains"
+  - url: /assets/data/current/theses/Ausschreibung_Digitizer.pdf
+    image_path: /assets/data/current/icons/icon_Ausschreibung_Digitizer.jpg
+    title: "Ausschreibung Data Mobilization"
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Hainich.pdf
     image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Hainich.jpg
-#    alt: "placeholder image 1"
     title: "Ausschreibung Klimamodellierung Hainich"
 
 feature_row_onthispage:
