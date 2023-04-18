@@ -29,6 +29,10 @@ gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Hainich.pdf
     image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Hainich.jpg
     title: "Ausschreibung Klimamodellierung Hainich"
+  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_UNTA.pdf
+    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_UNTA.jpg
+    title: "Ausschreibung Klimamodellierung Hainich"
+    
 
 feature_row_onthispage:
   - image_path: assets/images/front_page/icon_bachelor.png
