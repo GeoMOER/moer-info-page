@@ -3,11 +3,11 @@ title: Courses in the Lab of Environmental Informatics
 toc: true
 authors:
   - zeuss
-  - nauss
-  - wraase
-  - reudenbach
-  - ziegler
+  - bald
   - bhandari
+  - wraase
+  - ziegler
+  
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
 header:
@@ -20,7 +20,7 @@ header:
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 31.05.2022
+- excerpt: Last modified 18.04.2023
 
 gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Digitizer.pdf

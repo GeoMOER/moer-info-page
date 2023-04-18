@@ -40,4 +40,8 @@ bhandari:
   name             : "Netra Bhandari"
   avatar           : "/assets/images/instructors/bhandari.jpeg"
   email            : "netra.bhandari@geo.uni-marburg.de"
+bald:
+  name             : "Lisa Bald"
+  avatar           : "/assets/images/instructors/bald.jpg"
+  email            : "lisa.bald@geo.uni-marburg.de"
 
