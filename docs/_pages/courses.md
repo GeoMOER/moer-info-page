@@ -75,7 +75,7 @@ feature_row_courses_MSc:
     btn_label: "Go to course"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/courses/icon_proximate_sensing.jpg
+  - image_path: assets/images/courses/icon_proximate_sensing-min2.png
     title: "Proximate sensing of biodiversity"
     excerpt: "Use sensor boxes to monitor biodiversity - chance and challenges (also open for BSc-students!)"
     url: "https://geomoer.github.io/moer-bsc-mpg-proximate-sensing/"
