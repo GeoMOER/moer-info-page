@@ -73,7 +73,14 @@ feature_row_courses_MSc:
     excerpt: "Use upscaling methods and multi-sensor data for predicting biodiversity"
     url: "https://geomoer.github.io/moer-mpg-upscaling/"
     btn_label: "Go to course"
-    btn_class: "btn--primary"    
+    btn_class: "btn--primary"
+
+  - image_path: assets/images/courses/icon_proximate_sensing.jpg
+    title: "Proximate sensing of biodiversity"
+    excerpt: "Use sensor boxes to monitor biodiversity - chance and challenges (also open for BSc-students!)"
+    url: "https://geomoer.github.io/moer-bsc-mpg-proximate-sensing/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary" 
 
     
 #  
