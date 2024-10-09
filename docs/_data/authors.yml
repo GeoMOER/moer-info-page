@@ -44,4 +44,8 @@ bald:
   name             : "Lisa Bald"
   avatar           : "/assets/images/instructors/bald.jpg"
   email            : "lisa.bald@geo.uni-marburg.de"
+bald:
+  name             : "Spaska Forteva"
+  avatar           : "/assets/images/instructors/forteva.jpg"
+  email            : "spaska.forteva@geo.uni-marburg.de"
 
