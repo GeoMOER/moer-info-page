@@ -85,12 +85,17 @@ feature_row_courses_MSc:
     
 #  
 feature_row_extra:
-
-    
   - image_path: assets/images/courses/icon_R.png
     title: "R Basics"
     excerpt: "Learn the essentials for working with R"
     url: "https://geomoer.github.io/moer-base-r/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"
+    
+  - image_path: assets/images/courses/icon_Python.png
+    title: "Base Python"
+    excerpt: "Learn the essentials for working with Python"
+    url: "https://geomoer.github.io/moer-base-python/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
     
