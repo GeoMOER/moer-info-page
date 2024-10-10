@@ -44,8 +44,16 @@ bald:
   name             : "Lisa Bald"
   avatar           : "/assets/images/instructors/bald.jpg"
   email            : "lisa.bald@geo.uni-marburg.de"
-bald:
+forteva:
   name             : "Spaska Forteva"
   avatar           : "/assets/images/instructors/forteva.jpg"
   email            : "spaska.forteva@geo.uni-marburg.de"
+heidrich:
+  name             : "Lea Heidrich"
+  avatar           : "/assets/images/instructors/heidrich.jpg"
+  email            : "lea.heidrich@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  bio              : "Philipps-Universität Marburg"
+  location         : "Marburg, DE"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
 

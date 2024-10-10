@@ -3,24 +3,25 @@ title: Courses in the Lab of Environmental Informatics
 toc: true
 authors:
   - zeuss
+  - heidrich
   - bald
   - bhandari
+  - forteva
   - wraase
-  - ziegler
   
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.5
-  overlay_image: "/assets/images/heroteaser/heroteaser_frontpage_remsens_title.jpg"
-  caption: 'Lab of Environmental Informatics'
+  overlay_image: "/assets/images/heroteaser/ChatGPT_1.jpg"
+  caption: 'Image generated using DALL·E by OpenAI'
   cta_label: Discover
   cta_url: "/courses.html"
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 18.04.2023
+- excerpt: Last modified 10.10.2024
 
 gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Digitizer.pdf
@@ -87,13 +88,6 @@ Diese Seite soll Ihnen einen Überblick über unser aktuelles Lehr-Lern-Angebot 
 Unsere Kurse sind frei im Internet verfügbar und in Englisch verfasst. 
 Die Sprache in unseren Lehrveranstaltungen ist vorrangig Deutsch.
 
-
-# Current information
-
-## Corona virus
-All our courses currently take place fully digital or hybrid until further notice. 
-We use the webmeeting platform [Big Blue Button](https://www.uni-marburg.de/de/hrz/dienste/web-konferenzen/web-konferenz-bigbluebutton){:target="_blank"} for our synchronous digital courses. 
-Please also note the current [information on the Corona virus](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"} of the University of Marburg.
 
 
 ## Call for theses
