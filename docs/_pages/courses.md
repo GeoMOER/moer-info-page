@@ -57,7 +57,7 @@ feature_row_courses_MSc:
   - image_path: assets/images/courses/icon_GeoAI.png
     title: "GeoAI"
     excerpt: "Understand spatial problems, apply remote sensing, and use AI to resiliently predict spatial patterns"
-    url: "https://geomoer.github.io/geoAI/"
+    url: "https://geomoer.github.io/moer-mpg-geoai/"
     btn_label: "Go to course"
     btn_class: "btn--primary"    
        
