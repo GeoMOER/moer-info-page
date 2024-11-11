@@ -25,7 +25,7 @@ feature_row_intro:
 
 gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Phytoakmeter.pdf
-    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Phytoakmeter.jpg
+    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Phytoakmeter.png
     title: "Ausschreibung Phaenologie"
   - url: /assets/data/current/theses/Ausschreibung_Digitizer.pdf
     image_path: /assets/data/current/icons/icon_Ausschreibung_Digitizer.jpg
