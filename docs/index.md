@@ -24,6 +24,9 @@ feature_row_intro:
 - excerpt: Last modified 10.10.2024
 
 gallery_calls:
+  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Phytoakmeter.pdf
+    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Phytoakmeter.jpg
+    title: "Ausschreibung Phaenologie"
   - url: /assets/data/current/theses/Ausschreibung_Digitizer.pdf
     image_path: /assets/data/current/icons/icon_Ausschreibung_Digitizer.jpg
     title: "Ausschreibung Data Mobilization"
