@@ -45,6 +45,7 @@ feature_row_courses_BSc_l3:
     btn_class: "btn--primary"
 
 
+
 #
 feature_row_courses_MSc:
   - image_path: assets/images/courses/icon_data_analysis2021.png
@@ -60,6 +61,13 @@ feature_row_courses_MSc:
     url: "https://geomoer.github.io/moer-mpg-geoai/"
     btn_label: "Go to course"
     btn_class: "btn--primary"    
+
+  - image_path: assets/images/courses/icon_advancedSDM.png
+    title: "(Advanced) Species Distribution Modeling"
+    excerpt: "Create virtual species, dive deep into the world of SDM and work on experimental research questions (also open for BSc-students!)"
+    url: "https://geomoer.github.io/moer-msc-advanced-SDM/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"
 
   - image_path: assets/images/courses/icon_remote_sensing.jpg
     title: "Remote Sensing"
