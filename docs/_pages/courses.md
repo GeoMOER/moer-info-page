@@ -15,36 +15,36 @@ feature_row_courses_BSc_l3:
     url: "https://geomoer.github.io/moer-l3-aslo/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-   
+
   - image_path: assets/images/courses/icon_PS_radar.jpg
     title: "Ground Radar"
     excerpt: "Processing, analysing and interpreting ground radar images"
     url: "https://geomoer.github.io/moer-bsc-project-seminar-ground-radar/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
+
   - image_path: assets/images/courses/icon_PS_RS.png
     title: "Linking LiDAR and Satellite Data"
     excerpt: "Handle up-to-date remote sensing data, make spatial predictions with machine learning, and become familiar with advanced remote sensing modelling in R"
     url: "https://geomoer.github.io/moer-bsc-project-seminar-remote-sensing/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
+
   - image_path: assets/images/courses/icon_meko.jpg
     title: "Medienkompetenz"
     excerpt: "Fachliche Bedeutung von Medien verstehen und professionelle Handlungskompetenz zum Medieneinsatz erwerben"
     url: "https://geomoer.github.io/moer-meko/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
+
   - image_path: assets/images/courses/icon_SDM_2021.png
     title: "Species Distribution Modelling "
     excerpt: "International course on species distribution modelling techniques"
     url: "https://geomoer.github.io/moer-bsc-project-seminar-SDM/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
-  
+
+
 #
 feature_row_courses_MSc:
   - image_path: assets/images/courses/icon_data_analysis2021.png
@@ -53,21 +53,21 @@ feature_row_courses_MSc:
     url: "https://geomoer.github.io/moer-mpg-data-analysis/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
+
   - image_path: assets/images/courses/icon_GeoAI.png
     title: "GeoAI"
     excerpt: "Understand spatial problems, apply remote sensing, and use AI to resiliently predict spatial patterns"
     url: "https://geomoer.github.io/moer-mpg-geoai/"
     btn_label: "Go to course"
     btn_class: "btn--primary"    
-       
+
   - image_path: assets/images/courses/icon_remote_sensing.jpg
     title: "Remote Sensing"
     excerpt: "Handle remote sensing information, define workflows, identify objects, and predict land cover in space"
     url: "https://geomoer.github.io/moer-mpg-remote-sensing/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
+
   - image_path: assets/images/courses/icon_upscaling.png
     title: "Upscaling biodiversity"
     excerpt: "Use upscaling methods and multi-sensor data for predicting biodiversity"
@@ -82,13 +82,7 @@ feature_row_courses_MSc:
     btn_label: "Go to course"
     btn_class: "btn--primary" 
 
- - image_path: assets/images/courses/icon_advancedSDM.png
-    title: "(Advanced) Species Distribution Modeling"
-    excerpt: "Create virtual species, dive deep into the world of SDM and work on experimental research questions (also open for BSc-students!)"
-    url: "https://geomoer.github.io/moer-msc-advanced-SDM/"
-    btn_label: "Go to course"
-    btn_class: "btn--primary" 
-    
+
 #  
 feature_row_extra:
   - image_path: assets/images/courses/icon_R.png
@@ -97,14 +91,14 @@ feature_row_extra:
     url: "https://geomoer.github.io/moer-base-r/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
+
   - image_path: assets/images/courses/icon_Python.png
     title: "Base Python"
     excerpt: "Learn the essentials for working with Python"
     url: "https://geomoer.github.io/moer-base-python/"
     btn_label: "Go to course"
     btn_class: "btn--primary"
-    
+
 ---
 
 
@@ -134,6 +128,3 @@ More courses in the master programme "Geography" can be found [here](https://oer
 Official information on current and past courses can be found in the [course catalogue of the University of Marburg](https://marvin.uni-marburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?chco=y){:target="_blank"} and in the 
 [semester overview of the Department of Geography](https://www.uni-marburg.de/de/fb19/studium/termine){:target="_blank"}.
 -->
-
-
-
