@@ -7,7 +7,6 @@ authors:
   - bald
   - bhandari
   - forteva
-  - wraase
   
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
@@ -21,7 +20,7 @@ header:
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 10.10.2024
+- excerpt: Last modified 24.09.2025
 
 gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Phytoakmeter.pdf
@@ -87,9 +86,9 @@ feature_row_lablinks:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-Diese Seite soll Ihnen einen Überblick über unser aktuelles Lehr-Lern-Angebot verschaffen und den Zugang zu häufiger benötigten Informationen und Materialien erleichtern. 
-Unsere Kurse sind frei im Internet verfügbar und in Englisch verfasst. 
-Die Sprache in unseren Lehrveranstaltungen ist vorrangig Deutsch.
+This page is intended to give you an overview of our current teaching and learning offerings and to facilitate access to frequently needed information and materials.
+Our courses are freely available on the Internet and are written in English.
+The language used in our courses is primarily German. However, many courses are also offered in English. Most of our courses are offered in a hybrid setting.
 
 
 
