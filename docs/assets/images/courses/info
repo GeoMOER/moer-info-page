@@ -1,2 +1,8 @@
 Current defaults:
 - course icon ratio: 350px x 250px (7/5, wie auf zeit.de)
+
+Geodaten thumbnail: icon_geodaten_data_lake.jpg
+- Source: moer-bsc-geodaten/docs/assets/images/home/hero-data-swamp-data-lake.png
+- Course: https://geomoer.github.io/moer-bsc-geodaten/
+- Adapted with the built-in image_gen tool on 2026-10-30; exported as a 700 x 500 JPEG.
+- Prompt: Edit the supplied existing course hero artwork into a landscape course catalogue thumbnail with aspect ratio 7:5. Use a close crop/reframing from this EXACT pixel-art illustration, preserving its art, colors, objects and overall visual identity. Center the wooden data-filter machine and the transition from dark messy swamp on the left to clean bright lake on the right. Include the paper documents in the swamp, the filter mechanism with its funnel symbol, organized data crates on the wooden dock, and some clear water; include the stacked map layers at the right if space permits. Crop away excess sky and far outer edges. Keep the composition legible at a small card size. Do not add any text, new objects, people, logos, borders, or branding. This is a reused course illustration, not a redesign.

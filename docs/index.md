@@ -20,7 +20,7 @@ header:
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 24.09.2025
+- excerpt: Last modified 30.10.2026
 
 gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Phytoakmeter.pdf

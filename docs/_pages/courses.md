@@ -16,6 +16,14 @@ feature_row_courses_BSc_l3:
     btn_label: "Go to course"
     btn_class: "btn--primary"
 
+  - image_path: assets/images/courses/icon_geodaten_data_lake.jpg
+    alt: "Vom Datensumpf über einen Datenfilter zum klaren Datensee"
+    title: "Geodaten"
+    excerpt: "Digitale und tabellarische Daten strukturieren, bereinigen und kritisch beurteilen sowie Geodaten mit QGIS analysieren und als Karten darstellen"
+    url: "https://geomoer.github.io/moer-bsc-geodaten/"
+    btn_label: "Go to course"
+    btn_class: "btn--primary"
+
   - image_path: assets/images/courses/icon_PS_radar.jpg
     title: "Ground Radar"
     excerpt: "Processing, analysing and interpreting ground radar images"
