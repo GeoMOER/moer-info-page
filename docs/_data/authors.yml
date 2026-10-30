@@ -2,12 +2,12 @@
 
 zeuss:
   name             : "Dirk Zeuss"
-  avatar           : "/assets/images/instructors/zeuss.jpg"
+  avatar           : "/assets/images/instructors/web/zeuss.webp"
   email            : "dirk.zeuss@uni-marburg.de"
   bio              : "Philipps-Universität Marburg"
   location         : "Marburg, DE"
   home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dirk-zeuss"
-  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  uri              : "https://www.uni-marburg.de/en/fb19/research/working-groups/environmental-informatics"
 reudenbach:
   name             : "Christoph Reudenbach"
   avatar           : "/assets/images/instructors/reudenbach.jpg"
@@ -38,22 +38,22 @@ ziegler:
   email            : alice.ziegler@geo.uni-marburg.de
 bhandari:
   name             : "Netra Bhandari"
-  avatar           : "/assets/images/instructors/bhandari.jpeg"
+  avatar           : "/assets/images/instructors/web/bhandari.webp"
   email            : "netra.bhandari@geo.uni-marburg.de"
 bald:
   name             : "Lisa Bald"
-  avatar           : "/assets/images/instructors/bald.jpg"
+  avatar           : "/assets/images/instructors/web/bald.webp"
   email            : "lisa.bald@geo.uni-marburg.de"
 forteva:
   name             : "Spaska Forteva"
-  avatar           : "/assets/images/instructors/forteva.jpg"
+  avatar           : "/assets/images/instructors/web/forteva.webp"
   email            : "spaska.forteva@geo.uni-marburg.de"
 heidrich:
   name             : "Lea Heidrich"
-  avatar           : "/assets/images/instructors/heidrich.jpg"
+  avatar           : "/assets/images/instructors/web/heidrich.webp"
   email            : "lea.heidrich@geo.uni-marburg.de"
-  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  home             : "https://www.uni-marburg.de/en/fb19/research/working-groups/environmental-informatics"
   bio              : "Philipps-Universität Marburg"
   location         : "Marburg, DE"
-  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  uri              : "https://www.uni-marburg.de/en/fb19/research/working-groups/environmental-informatics"
 

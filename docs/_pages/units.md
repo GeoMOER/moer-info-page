@@ -1,8 +1,11 @@
 ---
 title: Course Units
 permalink: /units.html
-sidebar:
-        nav: "units" 
+sidebar: false
+sitemap: false
+search: false
+robots: noindex, follow
 ---
 
-{% include units_page %}
+Course units are organized within each course.
+Visit the [course catalogue]({{ '/courses.html' | relative_url }}) to choose a course and find its units.

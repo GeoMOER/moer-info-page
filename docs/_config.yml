@@ -27,12 +27,13 @@ baseurl: "/moer-info-page"
 
 
 ##### Title ###################################################################
-title: Courses
+title: Environmental Informatics Courses
+masthead_title: Courses
 name: &name "Lab of Environmental Informatics" # &name is a YAML anchor which can be *referenced later
 email: dirk.zeuss@uni-marburg.de
-description: >- # this means to ignore newlines until next item
-  course course-materials geography remote-sensing marburg-open-educational-resource 
-  physical-geography environmental-science nature-conservation r SDM
+description: >-
+  Open course materials in geography and environmental informatics from the Lab
+  of Environmental Informatics at Philipps-Universität Marburg.
 
 ##### Social Sharing ##########################################################
 twitter:
@@ -53,34 +54,15 @@ remote_theme: "GeoMOER/moer-jekyll-theme"
 minimal_mistakes_skin    :    "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 
-# Default Settings
-collections_dir: units
+after_footer_scripts:
+  - /assets/js/navigation-accessibility.js
 
 # Includes
 include:
   - _pages
 
-# Collections
-collections:
-  01_courses:
-    output: true
-    permalink: /:collection/:title.html 
-
 # Default settings
 defaults:
-  # 01_courses
-  - scope:
-      path: ""
-      type: 01_courses
-    values:
-      category: "Courses"
-      tags: "courses"
-      layout: single
-      sidebar:
-        nav: "units"
-      toc: true
-      toc_label: On this page
-       
   # pages
   - scope:
       path: "_pages"

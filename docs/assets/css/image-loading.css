@@ -1,0 +1,19 @@
+/* Reserve mobile gallery widths before lazy images have loaded. */
+@media (max-width: 599.98px) {
+  figure.image-gallery > a {
+    width: 100%;
+  }
+}
+
+/* Intrinsic dimensions describe image content, excluding padding and borders. */
+.site-title img,
+.author__avatar img {
+  box-sizing: content-box;
+}
+
+@media (min-width: 1024px) {
+  .author__avatar img {
+    /* Preserve the theme's 110 px outer width: 5 px padding + 1 px border. */
+    max-width: 98px;
+  }
+}

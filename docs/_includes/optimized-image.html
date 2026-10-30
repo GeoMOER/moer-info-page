@@ -1,0 +1,13 @@
+{%- assign image_key = include.path -%}
+{%- assign first_character = image_key | slice: 0, 1 -%}
+{%- if first_character == '/' -%}
+  {%- assign image_key = image_key | remove_first: '/' -%}
+{%- endif -%}
+{%- assign image_dimensions = site.data.image_derivatives[image_key] -%}
+<img src="{{ include.path | relative_url }}"
+     alt="{{ include.alt | escape_once }}"
+     {% if image_dimensions %}width="{{ image_dimensions.width }}" height="{{ image_dimensions.height }}"{% endif %}
+     loading="{{ include.loading | default: 'lazy' }}" decoding="async"
+     {% if include.class %}class="{{ include.class }}"{% endif %}
+     {% if include.itemprop %}itemprop="{{ include.itemprop }}"{% endif %}
+     {% if include.fetchpriority %}fetchpriority="{{ include.fetchpriority }}"{% endif %}>

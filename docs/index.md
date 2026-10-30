@@ -1,5 +1,8 @@
 ---
 title: Courses in the Lab of Environmental Informatics
+description: >-
+  Explore course materials in geography and environmental informatics from the
+  Lab of Environmental Informatics at Philipps-Universität Marburg.
 toc: true
 authors:
   - zeuss
@@ -13,27 +16,24 @@ date: '2019-10-15 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.5
-  overlay_image: "/assets/images/heroteaser/ChatGPT_1.jpg"
+  overlay_image: "/assets/images/heroteaser/web/ChatGPT_1.webp"
   caption: 'Image generated using DALL·E by OpenAI'
   cta_label: Discover
   cta_url: "/courses.html"
 excerpt: Find out more about our open educational resources
 
 feature_row_intro:
-- excerpt: Last modified 30.10.2026
+- excerpt: Last modified 30. October 2026
 
 gallery_calls:
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Phytoakmeter.pdf
-    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Phytoakmeter.png
+    image_path: /assets/data/current/icons/web/icon_Ausschreibung_Masterarbeit_Phytoakmeter.webp
     title: "Ausschreibung Phaenologie"
   - url: /assets/data/current/theses/Ausschreibung_Digitizer.pdf
-    image_path: /assets/data/current/icons/icon_Ausschreibung_Digitizer.jpg
+    image_path: /assets/data/current/icons/web/icon_Ausschreibung_Digitizer.webp
     title: "Ausschreibung Data Mobilization"
   - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_Hainich.pdf
-    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_Hainich.jpg
-    title: "Ausschreibung Klimamodellierung Hainich"
-  - url: /assets/data/current/theses/Ausschreibung_Masterarbeit_UNTA.pdf
-    image_path: /assets/data/current/icons/icon_Ausschreibung_Masterarbeit_UNTA.jpg
+    image_path: /assets/data/current/icons/web/icon_Ausschreibung_Masterarbeit_Hainich.webp
     title: "Ausschreibung Klimamodellierung Hainich"
     
 
@@ -65,14 +65,14 @@ feature_row_onthispage:
     caption: "xxx"
 
 feature_row_lablinks:
-  - image_path: assets/images/front_page/icon_philosophy.jpg
+  - image_path: assets/images/front_page/web/icon_philosophy.webp
     alt: "Philosophy"
     title: "Teaching Philosophy"
     excerpt: "Problems instead of solutions"
     url: "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics/teaching/philosophie"
     btn_label: "Discover"
     btn_class: "btn--info"
-  - image_path: assets/images/front_page/icon_theses.jpg
+  - image_path: assets/images/front_page/web/icon_theses.webp
     alt: "Theses"
     title: "Theses"
     excerpt: "Available and completed theses"
@@ -107,15 +107,15 @@ The language used in our courses is primarily German. However, many courses are 
 {% include feature_row id="feature_row_onthispage" %}
 -->
 
-# Find out more on our lab homepage
-{% include feature_row id="feature_row_lablinks" %}
+## Find out more on our lab homepage
+{% include feature_row id="feature_row_lablinks" heading_level=3 %}
 
 
-# Need help?
+## Need help?
 Our team of instructors will be happy to assist you if you have any questions
 
 
-# Instructors
+## Instructors
 
 {% for i in page.authors %} 
   {% assign author = site.data.authors[i] %}

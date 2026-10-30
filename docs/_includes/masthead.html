@@ -1,8 +1,8 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-    	<a class="site-title" href="{{ '/' | absolute_url }}" style="padding:0px"><img src="{{ "/assets/images/logos/logo_umr4.png" | absolute_url }}" style="padding-right:15px">{{ site.title }}</a>
+      <nav id="site-nav" class="greedy-nav" aria-label="Main navigation">
+        <a class="site-title" href="{{ '/' | absolute_url }}" style="padding:0px"><img src="{{ "/assets/images/logos/logo_umr4.png" | absolute_url }}" alt="Philipps-Universität Marburg" width="200" height="74" style="padding-right:15px">{{ site.masthead_title | default: site.title }}</a>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -22,11 +22,11 @@
           </svg>
         </button>
         {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button">
+        <button class="greedy-nav__toggle hidden" type="button" aria-expanded="false" aria-controls="site-nav-overflow">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>
           <div class="navicon"></div>
         </button>
-        <ul class="hidden-links hidden"></ul>
+        <ul id="site-nav-overflow" class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>

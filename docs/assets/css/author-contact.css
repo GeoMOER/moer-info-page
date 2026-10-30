@@ -1,0 +1,15 @@
+.author__contact-links {
+  margin: 0.5em 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.author__contact-links li {
+  margin: 0;
+}
+
+.author__contact-links a {
+  display: inline-block;
+  padding: 0.3em 0;
+  overflow-wrap: anywhere;
+}

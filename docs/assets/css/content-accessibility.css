@@ -1,0 +1,9 @@
+/* Keep the established card-title size when nesting cards under H2 sections. */
+.feature__wrapper h3.archive__item-title {
+  font-size: 1.25em;
+}
+
+#site-nav .greedy-nav__toggle:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 3px;
+}
